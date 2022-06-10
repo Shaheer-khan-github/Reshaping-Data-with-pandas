@@ -18,3 +18,7 @@ Chapter 3
 Chapter 4
 
 <img width="429" alt="Chapter4 outline" src="https://user-images.githubusercontent.com/59821979/171992381-0835dffb-a5ba-4a6f-a1e3-f54bae97ae11.PNG">
+
+All Chapters Summary
+
+![All_chapters_ Summary](https://user-images.githubusercontent.com/59821979/173094308-a234c27b-120e-49da-8f9b-4ce8f0c203f3.png)
